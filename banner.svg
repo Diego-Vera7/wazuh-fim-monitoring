@@ -1,0 +1,32 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1a1a1a" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="260" fill="#000000"/>
+  <rect width="1200" height="260" fill="url(#grid)"/>
+
+  <line x1="0" y1="0" x2="1200" y2="0" stroke="#ffffff" stroke-width="3"/>
+  <line x1="0" y1="257" x2="1200" y2="257" stroke="#ffffff" stroke-width="3"/>
+
+  <text x="60" y="95" font-family="Consolas, 'Courier New', monospace" font-size="48" font-weight="700" fill="#ffffff" letter-spacing="3">WAZUH FIM MONITORING</text>
+
+  <line x1="60" y1="120" x2="700" y2="120" stroke="#ffffff" stroke-width="2"/>
+
+  <text x="60" y="160" font-family="Consolas, 'Courier New', monospace" font-size="20" fill="#bfbfbf" letter-spacing="1">FILE INTEGRITY MONITORING &#8226; DETECCION EN TIEMPO REAL</text>
+
+  <text x="60" y="210" font-family="Consolas, 'Courier New', monospace" font-size="16" fill="#777777" letter-spacing="1">AGENTE WAZUH &#8594; UBUNTU DESKTOP (VICTIMA)</text>
+
+  <circle cx="1080" cy="60" r="5" fill="#ffffff"/>
+  <circle cx="1120" cy="60" r="5" fill="#555555"/>
+  <circle cx="1160" cy="60" r="5" fill="#ffffff"/>
+  <line x1="1080" y1="60" x2="1120" y2="60" stroke="#444444" stroke-width="2"/>
+  <line x1="1120" y1="60" x2="1160" y2="60" stroke="#444444" stroke-width="2"/>
+
+  <rect x="1040" y="150" width="110" height="60" fill="none" stroke="#ffffff" stroke-width="2"/>
+  <line x1="1040" y1="170" x2="1150" y2="170" stroke="#444444" stroke-width="1"/>
+  <line x1="1040" y1="190" x2="1150" y2="190" stroke="#444444" stroke-width="1"/>
+  <line x1="1065" y1="150" x2="1065" y2="210" stroke="#444444" stroke-width="1"/>
+</svg>
