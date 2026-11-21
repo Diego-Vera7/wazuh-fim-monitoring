@@ -52,7 +52,7 @@ El módulo opera en dos modos: **periódico** (escanea cada cierto intervalo, po
 
 ## Arquitectura
 
-Mismo laboratorio que el repo de detección de fuerza bruta SSH: 3 VMs en una NAT Network de VirtualBox. Para este módulo, el protagonista es el **agente instalado en Ubuntu Desktop** (la máquina monitoreada) — Kali no participa, porque FIM vigila archivos en la máquina donde corre el agente, no en la máquina atacante.
+3 VMs en una NAT Network de VirtualBox. Para este módulo, el protagonista es el **agente instalado en Ubuntu Desktop** (la máquina monitoreada).
 
 | Máquina | Rol | IP |
 |---|---|---|
