@@ -135,7 +135,12 @@ Grabación en video del proceso completo: creación, modificación, cambio de pe
 
 <div align="center">
 
-**[▶ Ver video](./video-fim.mp4)**
+
+
+https://github.com/user-attachments/assets/a83a9586-e784-43cf-8bde-479b1e36be8b
+
+
+
 
 </div>
 
