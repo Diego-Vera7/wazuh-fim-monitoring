@@ -135,13 +135,9 @@ Grabación en video del proceso completo: creación, modificación, cambio de pe
 
 <div align="center">
 
-<a href="https://youtu.be/TU_ID_DE_VIDEO">
-<img src="https://img.youtube.com/vi/TU_ID_DE_VIDEO/0.jpg" width="480">
-</a>
+**[▶ Ver video](./video-fim.mp4)**
 
 </div>
-
-> Reemplaza `TU_ID_DE_VIDEO` en los 2 links de arriba por el ID real de tu video de YouTube (la parte después de `youtu.be/` o `watch?v=`).
 
 ---
 
@@ -152,6 +148,7 @@ Reporte exportado directamente desde el dashboard de Wazuh con el resumen de ale
 <div align="center">
 
 <a href="./reporte/fim-wazuh-reporte.pdf">
+<img src="./assets/icono-pdf.webp" width="90"><br>
 <b>Ver reporte PDF</b>
 </a>
 
@@ -174,7 +171,7 @@ Reporte exportado directamente desde el dashboard de Wazuh con el resumen de ale
 <sub><b>Ubuntu</b></sub>
 </td>
 <td align="center" width="140">
-<img src="https://cdn.simpleicons.org/wazuh" width="56" height="56"><br>
+<img src="./assets/wazuh-icon.webp" width="56" height="56"><br>
 <sub><b>Wazuh 4.14</b></sub>
 </td>
 </tr>
